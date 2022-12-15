@@ -13,7 +13,7 @@ name                     : &name "Boao Dong"
 description              : &description "Boao Dong"
 url                      : https://boaodong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "boaodong/boaodong.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Boao(Mark) Dong"
   avatar           : "profile.jpg"
-  bio              : "Senior student studying computer science at Cornell University"
+  bio              : "Senior student studying computer science and economics at Cornell University"
   location         : "Ithaca, NY, USA"
   employer         :
   pubmed           : 
