@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -13,4 +13,4 @@ Hi there, I am Boao(Mark) Dong <br>
 
 
 The website is under active construction. <br>
-![Work](../under-construction.jpg)<br>
+<img src="./under-construction.jpg" alt="drawing" width="200"/>
