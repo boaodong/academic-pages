@@ -10,7 +10,6 @@ redirect_from:
 ---
 
 # An aspiring real-world problem solver
-## An aspiring real-world problem solver
 Hi there, I am Boao(Mark) Dong <br>
 
 
