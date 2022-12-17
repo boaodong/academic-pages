@@ -8,7 +8,7 @@ redirect_from:
 
 ## Apart from technology, I have a broad interest in <a href="#economics">`economics`</a>, `music`, `acting`, `basketball`, and `traveling`.
 
-<p id="economics"></a>Economics: 
+<p id="economics"></p>Economics: 
 
 1. Member of Omicron Delta Epsilon, Cornell economics honor society.   https://www.omicrondeltaepsilon.org/
 
